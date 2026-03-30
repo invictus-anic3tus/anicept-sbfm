@@ -22,14 +22,6 @@
 [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 </sub>
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Assembly](#assembly)
-- [Bill of Materials](#bill-of-materials)
-- [Contributing](#contributing)
-
 ## About
 
 Hi! I'm Anicetus, and I love 3D printers and making custom hardware. Recently, however, I had an issue where my 3D printer's extruder lost its grip on the filament, and so stopped extruding it in the middle of a print. This was, of course, not ideal, and caused a lot of wasted filament and time. To stop this from happening again, I introduce to you the SBFM! There are a lot of different filament sensors out there, ranging from the humble microswitch to costly, ultraprecise modules.
@@ -46,9 +38,11 @@ But this is one of the first to be precise, cheap, and _fully_ homemade. No cust
 - A compact form factor
 - ... all this for under $20!
 
-## Assembly
+## Assembly + Usage
 
 Assembly video coming soon! For now, please reference the CAD design to see how everything fits together :)
+
+Once it's assembled and filament passes through right, upload the test code to make sure that the ESP32 reads the filament movement accurately. Then upload the real code, inputting the information needed for the pi to access the data over wifi, and add the code to the pi that accesses this data, processes it, and gives instructions to klipper based on it.
 
 ## Bill of Materials
 
