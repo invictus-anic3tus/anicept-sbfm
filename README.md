@@ -36,7 +36,7 @@ But this is one of the first to be precise, cheap, and _fully_ homemade. No cust
 - ECAS04 connectors for routing filament
 - A fully 3D printable case
 - A compact form factor
-- ... all this for under $20!
+- ... all this for ten bucks!
 
 ## Assembly + Usage
 
@@ -48,16 +48,16 @@ Once it's assembled and filament passes through right, see the readme in the cod
 
 ## Bill of Materials
 
-|Part                |Link                                                |Cost  |Notes                                                                                                                                                                                            |
-|--------------------|----------------------------------------------------|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|ESP32C3 SuperMini   |https://www.aliexpress.us/item/3256807292829704.html|$2.64 |These abound on AliExpress for very cheap                                                                                                                                                        |
-|Photoelectric sensor|https://www.ebay.com/itm/182156491057               |$8.41 |For some reason, AliExpress doesn't seem to have any of these from reliable sellers. Note that this eBay link is selling two sensors, but it's still cheaper than one sensor from another seller.|
-|7x11x3 bearings     |https://www.aliexpress.us/item/3256807442294068.html|$2.59 |3 needed                                                                                                                                                                                         |
-|ECAS04 collet clips |https://www.aliexpress.us/item/3256806459368820.html|$1.89 |2 needed                                                                                                                                                                                         |
-|Screws              |https://www.aliexpress.us/item/2251832857570651.html|$1.85 |M2 self-tapping, 14mm long, pan head (3 needed)                                                                                                                                                  |
-|Subtotal            |                                                    |$17.38|                                                                                                                                                                                                 |
-|Tax                 |                                                    |$1.43 |                                                                                                                                                                                                 |
-|Total               |                                                    |$18.81|                                                                                                                                                                                                 |
+|Part                |Link                                                |Cost  |Notes                                          |
+|--------------------|----------------------------------------------------|------|-----------------------------------------------|
+|ESP32C3 SuperMini   |https://www.aliexpress.us/item/3256807292829704.html|$2.64 |These abound on AliExpress for very cheap      |
+|Photoelectric sensor|https://www.aliexpress.us/item/3256806022845294.html|$1.30 |                                               |
+|7x11x3 bearings     |https://www.aliexpress.us/item/3256807442294068.html|$2.59 |3 needed                                       |
+|ECAS04 collet clips |https://www.aliexpress.us/item/3256806459368820.html|$1.89 |2 needed                                       |
+|Screws              |https://www.aliexpress.us/item/2251832857570651.html|$1.85 |M2 self-tapping, 14mm long, pan head (3 needed)|
+|Subtotal            |                                                    |$10.27|                                               |
+|Tax                 |                                                    |$0.85 |                                               |
+|Total               |                                                    |$11.12|                                               |
 
 
 <img width="954" height="666" alt="Screenshot 2026-03-31 172934" src="https://github.com/user-attachments/assets/f8d79e9f-cc7a-4fa6-bf5a-e1ec78da31f5" />
