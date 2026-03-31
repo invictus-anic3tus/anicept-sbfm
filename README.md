@@ -42,7 +42,7 @@ But this is one of the first to be precise, cheap, and _fully_ homemade. No cust
 
 Assembly video coming soon! For now, please reference the CAD design to see how everything fits together :)
 
-![Wiring Diagram](https://cdn.hackclub.com/019d417d-b66a-705d-8864-c89c324e0f71/Anicept%20SBFM%20Wiring%20Diagram.png)
+![Wiring Diagram](https://user-cdn.hackclub-assets.com/019d417f-1d7f-7275-be22-8e648827caf3/Anicept%20SBFM%20Wiring%20Diagram.png)
 
 Once it's assembled and filament passes through right, upload the test code to make sure that the ESP32 reads the filament movement accurately. Then upload the real code, inputting the information needed for the pi to access the data over wifi, and add the code to the pi that accesses this data, processes it, and gives instructions to klipper based on it.
 
