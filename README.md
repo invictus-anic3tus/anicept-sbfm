@@ -59,6 +59,11 @@ Once it's assembled and filament passes through right, see the readme in the cod
 |Tax                 |                                                    |$1.43 |                                                                                                                                                                                                 |
 |Total               |                                                    |$18.81|                                                                                                                                                                                                 |
 
+
+<img width="954" height="666" alt="Screenshot 2026-03-31 172934" src="https://github.com/user-attachments/assets/f8d79e9f-cc7a-4fa6-bf5a-e1ec78da31f5" />
+<img width="939" height="718" alt="Screenshot 2026-03-31 172954" src="https://github.com/user-attachments/assets/9dce7cf5-417f-41f2-b014-341e7e7e8474" />
+<img width="816" height="644" alt="Screenshot 2026-03-31 173016" src="https://github.com/user-attachments/assets/3faf404f-7a61-4d17-87f4-34f1905ceb1d" />
+
 ## Contributing
 
 <sub>aha somebody wishes to help me i see</sub>
