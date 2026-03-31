@@ -1,13 +1,13 @@
 <div align="center">
 
   <h1>The Anicept SBFM</h1>
-  
+
   ![Main Image](https://cdn.hackclub.com/019d40ac-3dbc-7696-9277-a4d6da392339/Screenshot%202026-03-30%20163511.png)
 
   <h3>By Anicetus</h3>
 
   <p display="inline">
-  
+
   <a href="https://creativecommons.org/licenses/by-nc/4.0/">
     <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="Creative Commons Attribution-NonCommercial 4.0 International License"></a> <a href="https://hackclub.com/highway">
     <img alt="Funded by Hack Club" src="https://img.shields.io/badge/Hack_Club-Funded-ec3750?style=for-the-badge&logo=hackclub&logoColor=ec3750"></img>
@@ -41,6 +41,8 @@ But this is one of the first to be precise, cheap, and _fully_ homemade. No cust
 ## Assembly + Usage
 
 Assembly video coming soon! For now, please reference the CAD design to see how everything fits together :)
+
+![Wiring Diagram](https://cdn.hackclub.com/019d417d-b66a-705d-8864-c89c324e0f71/Anicept%20SBFM%20Wiring%20Diagram.png)
 
 Once it's assembled and filament passes through right, upload the test code to make sure that the ESP32 reads the filament movement accurately. Then upload the real code, inputting the information needed for the pi to access the data over wifi, and add the code to the pi that accesses this data, processes it, and gives instructions to klipper based on it.
 
