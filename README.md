@@ -44,7 +44,7 @@ Assembly video coming soon! For now, please reference the CAD design to see how 
 
 ![Wiring Diagram](https://user-cdn.hackclub-assets.com/019d417f-1d7f-7275-be22-8e648827caf3/Anicept%20SBFM%20Wiring%20Diagram.png)
 
-Once it's assembled and filament passes through right, upload the test code to make sure that the ESP32 reads the filament movement accurately. Then upload the real code, inputting the information needed for the pi to access the data over wifi, and add the code to the pi that accesses this data, processes it, and gives instructions to klipper based on it.
+Once it's assembled and filament passes through right, see the readme in the code folder to get it working software-wise!!
 
 ## Bill of Materials
 
